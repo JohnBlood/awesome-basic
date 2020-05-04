@@ -4,10 +4,10 @@ A curated list of awesome BASIC dialects, IDEs, and tutorials
 
 ### Contents
 
-* [Dialoects](#Dialects)
+* [Dialects](#Dialects)
 * [Game Development](#Game-Development)
 * [Tutorials](#Tutorials)
-* [IDEs, Editors, and Plugins](#Dialects)
+* [IDEs, Editors, and Plugins](#ides-editors-and-plugins)
 
 ## Dialects
 
@@ -18,9 +18,14 @@ A curated list of awesome BASIC dialects, IDEs, and tutorials
 
 ## Game Development
 
+* [BlitzMax](https://blitzmax.org/)
+* [Cerberus X](https://www.cerberus-x.com/community/portal/) - cross-platform development toolset which serves 2D game development at its core. Cerberus X is a fork of the Monkey X programming language
+
 ## Tutorials
 
 * [Franktic's FreeBASIC Programming Tutorial](https://frankticfreebasic.blogspot.com/)
 * [QB64 Game Programming](https://www.qb64sourcecode.com/)
 
 ## IDEs, Editors, and Plugins
+
+* [WinFBE](https://github.com/PaulSquires/WinFBE) - FreeBASIC Editor for Windows
