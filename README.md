@@ -38,7 +38,7 @@ A curated list of awesome BASIC dialects, IDEs, and tutorials
 * [Franktic's FreeBASIC Programming Tutorial](https://frankticfreebasic.blogspot.com/)
 * [Programming with yab](https://www.smashwords.com/books/view/691720)
 * [QB64 Game Programming](https://www.qb64sourcecode.com/)
-* {QBasic (QB64) Tutorial Video Series by SchoolFreeware}(https://www.youtube.com/playlist?list=PLF6199808BD4901E1)
+* [QBasic (QB64) Tutorial Video Series by SchoolFreeware](https://www.youtube.com/playlist?list=PLF6199808BD4901E1)
 
 ## IDEs, Editors, Plugins, and Tools
 
