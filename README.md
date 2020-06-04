@@ -11,6 +11,7 @@ A curated list of awesome BASIC dialects, IDEs, and tutorials
 
 ## Dialects
 
+* [BASIC-256](https://sourceforge.net/projects/kidbasic/) - an easy to use version of BASIC designed to teach anybody how to program. A built-in graphics mode lets them draw pictures on screen in minutes, and a set of easy-to-follow tutorials introduce programming concepts through fun exercises.
 * [bootBASIC](https://github.com/nanochess/bootBASIC) - a BASIC language in 512 bytes of x86 machine code. 
 * [Bywater BASIC Interpreter](https://sourceforge.net/projects/bwbasic/) - implements a large superset of the ANSI Standard for Minimal BASIC (X3.60-1978) and a significant subset of the ANSI Standard for Full BASIC (X3.113-1987) in C.
 * [Chipmunk Basic](http://www.nicholson.com/rhn/basic/) - an interpreter for the BASIC Programming Language. It runs on multiple OS platforms, and is reasonably fast for a pure interpreter. Chipmunk Basic presents a traditional (vintage) terminal-command-line programming environment, and supports a simple, old-fashioned, and easy-to-learn dialect of the Basic Programming Language. (Line numbers are required when using the built-in command-line console, but are not required in Basic programs written using an external text editor.) The language also supports a few advanced extensions. Free for educational and personal use.
