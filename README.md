@@ -8,20 +8,27 @@ A curated list of awesome BASIC dialects, IDEs, and tutorials
 * [Game Development](#Game-Development)
 * [Tutorials](#Tutorials)
 * [IDEs, Editors, Plugins, and Tools](#ides-editors-plugins-and-tools)
+* [Miscellaneous](#Miscellaneous)
 
 ## Dialects
 
+* [atinybasic](https://github.com/trevorjay/atinybasic) - An Actually Tiny BASIC for Arduino.
 * [BASIC-256](https://sourceforge.net/projects/kidbasic/) - an easy to use version of BASIC designed to teach anybody how to program. A built-in graphics mode lets them draw pictures on screen in minutes, and a set of easy-to-follow tutorials introduce programming concepts through fun exercises.
 * [bootBASIC](https://github.com/nanochess/bootBASIC) - a BASIC language in 512 bytes of x86 machine code. 
 * [Bywater BASIC Interpreter](https://sourceforge.net/projects/bwbasic/) - implements a large superset of the ANSI Standard for Minimal BASIC (X3.60-1978) and a significant subset of the ANSI Standard for Full BASIC (X3.113-1987) in C.
+* [cmbasic](https://github.com/mist64/cbmbasic) - a portable version of Commodore's version of Microsoft BASIC 6502 as found on the Commodore 64.
 * [Chipmunk Basic](http://www.nicholson.com/rhn/basic/) - an interpreter for the BASIC Programming Language. It runs on multiple OS platforms, and is reasonably fast for a pure interpreter. Chipmunk Basic presents a traditional (vintage) terminal-command-line programming environment, and supports a simple, old-fashioned, and easy-to-learn dialect of the Basic Programming Language. (Line numbers are required when using the built-in command-line console, but are not required in Basic programs written using an external text editor.) The language also supports a few advanced extensions. Free for educational and personal use.
+* [endbasic](https://github.com/jmmv/endbasic) - BASIC environment with a REPL, a web interface, and RPi support written in Rust.
 * [FreeBASIC](https://www.freebasic.net/) - a free/open source (GPL), BASIC compiler for Microsoft Windows, DOS and Linux. 
 * [FutureBasic](https://www.brilorsoftware.com/fb/pages/home.html) - a high-level procedural programming language combined with an "Integrated Development Environment" (IDE) for creating native Intel Macintosh applications. It provides an editor, compiler, project manager, documentation, and code samples.
+* [Dark Basic Pro](https://github.com/TheGameCreators/Dark-Basic-Pro) - an open source BASIC programming language for creating Windows applications and games.
 * [Just BASIC](https://justbasic.com/) - a programming language for Windows.  It is completely free and it is suitable for creating all kinds of applications for business, industry, education and entertainment.
 * [Gambas](http://gambas.sourceforge.net/en/main.html) - a free development environment and a full powerful development platform based on a Basic interpreter with object extensions, as easy as Visual Basic.
 * [MatrixBrandy](https://github.com/stardot/MatrixBrandy) - a Fork of Brandy BASIC V for Linux. Brandy implements Basic VI, the the 64-bit floating-point mathematics variant of the dialect of Basic that Acorn Computers supplied with their ranges of desktop computers that use the ARM processor such as the Archimedes and RiscPC. Basic V and VI are an extended version of BBC Basic. This was the Basic used on the BBC Micro that Acorn made during the early 1980s.
+* [LychenBASIC](https://github.com/axtens/LychenBASIC) - anachronistic, Windows-only, BASIC language programming [blog post explanation](https://dev.to/bugmagnet/lychenbasic-anachronistic-windows-only-basic-language-programming-11d1).
 * [Oxygen Basic](https://www.oxygenbasic.org/) - a Compact embeddable JIT compiler that reads C headers and compiles to x86 machine code. Executes directly in memory or creates DLLs and EXE files. Supports overloading and OOP. Currently available for MS platforms.
-* [PC-BASIC ](https://robhagemans.github.io/pcbasic/) - a free, cross-platform interpreter for GW-BASIC, Advanced BASIC (BASICA), PCjr Cartridge Basic and Tandy 1000 GWBASIC.
+* [PuffinBASIC](https://github.com/mayuropensource/PuffinBASIC) - BASIC interpreter written in Java.
+* [PC-BASIC](https://robhagemans.github.io/pcbasic/) - a free, cross-platform interpreter for GW-BASIC, Advanced BASIC (BASICA), PCjr Cartridge Basic and Tandy 1000 GWBASIC.
 * [QB64](https://www.qb64.org/portal/) - a modern extended BASIC programming language that retains QBasic/QuickBASIC 4.5 compatibility and compiles native binaries for Windows, Linux, and macOS
 * [SmallBASIC](https://smallbasic.github.io/) - a fast and easy to learn BASIC language interpreter ideal for everyday calculations, scripts and prototypes. SmallBASIC includes trigonometric, matrices and algebra functions, a built in IDE, a powerful string library, system, sound, and graphic commands along with structured programming syntax.
 * [thinBASIC](https://www.thinbasic.com/) - a very fast "BASIC like" programming language useful to Beginners and to Gurus. BASIC interpreter for Windows able to create console and gui applications with most of the user interface controls, automate process, automate data exchange, connect to databases, send mails, connect to ftp sites, rest api, parsing strings, tokenizing, traversing xml, handling files, Windows Registry, OpenGl, graphics, sound, printing ... and much more.
@@ -53,6 +60,15 @@ A curated list of awesome BASIC dialects, IDEs, and tutorials
 * [DavsIDE](http://www.qbasicnews.com/dav/projects.php#DAVSIDE) - an Alternative IDE for the QB64 compiler. 
 * [InForm](https://www.qb64.org/inform/) - a GUI engine and WYSIWYG interface designer for QB64.
 * [QBASDOWN](https://github.com/clasqm/QBASDOWN) - a Markdown implementation for FreeDOS. Written for FreeDOS in QuickBASIC 4.5
-* [Quite BASIC](http://www.quitebasic.com/) -  a web-based classic BASIC online programming environment.
+* [Quite BASIC](http://www.quitebasic.com/) - a web-based classic BASIC online programming environment.
+* [mono-basic](https://github.com/mono/mono-basic) - Visual Basic Compiler and Runtime.
 * [WinFBE](https://github.com/PaulSquires/WinFBE) - FreeBASIC Editor for Windows.
 * [wwwBASIC](https://github.com/google/wwwbasic) - an implementation of BASIC that runs on Node.js and the Web.
+
+## Miscellaneous
+
+* [Collection of Commodore BASIC programs](https://github.com/robfromoz/C64-BASIC)
+* [Hoard of GW-BASIC](https://github.com/robhagemans/hoard-of-gwbasic) - A collection of GW-BASIC code by various authors.
+* [MBASIC-Protect](https://github.com/w4jbm/MBASIC-Protect) - Information on the CP/M MBASIC interpreter's protect mode.
+* [GW-BASIC source code](https://github.com/microsoft/GW-BASIC) - The original source code of Microsoft GW-BASIC from 1983.
+* [Project Cherry](https://github.com/Sarania/Project-Cherry) - a Chip-8/SCHIP emulator written in FreeBASIC.
