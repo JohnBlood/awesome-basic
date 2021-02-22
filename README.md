@@ -6,9 +6,9 @@ A curated list of awesome BASIC dialects, IDEs, and tutorials
 
 * [Dialects](#Dialects)
 * [Game Development](#Game-Development)
-* [Tutorials](#Tutorials)
 * [IDEs, Editors, Plugins, and Tools](#ides-editors-plugins-and-tools)
 * [Miscellaneous](#Miscellaneous)
+* [Tutorials](#Tutorials)
 
 ## Dialects
 
@@ -42,17 +42,6 @@ A curated list of awesome BASIC dialects, IDEs, and tutorials
 * [BlitzMax](https://blitzmax.org/) - a fast cross-platform, open-source, programming language.
 * [Cerberus X](https://www.cerberus-x.com/community/portal/) - Aa cross-platform development toolset which serves 2D game development at its core. Cerberus X is a fork of the Monkey X programming language.
 
-## Tutorials
-
-* [A Beginner's Guide To FreeBasic](https://github.com/andykmv/Freebasic_user_guide)
-* [A Beginner's Guide to Gambas](https://distro.ibiblio.org/vectorlinux/Uelsk8s/GAMBAS/gambas-beginner-guide.pdf)
-* [BASIC Gaming](https://games.freebasic.net/basicgaming.php) - a short lived ezine that has a wealth of information
-* [BlitzMax for the Absolute Beginner](http://blitzmaxbook.com/)
-* [Franktic's FreeBASIC Programming Tutorial](https://frankticfreebasic.blogspot.com/)
-* [Programming with yab](https://www.smashwords.com/books/view/691720)
-* [QB64 Game Programming](https://www.qb64sourcecode.com/)
-* [QBasic (QB64) Tutorial Video Series by SchoolFreeware](https://www.youtube.com/playlist?list=PLF6199808BD4901E1)
-
 ## IDEs, Editors, Plugins, and Tools
 
 * [BaCon](https://www.basic-converter.org/) - a free BASIC to C translator for Unix-based systems, which runs on most Unix/Linux/BSD platforms, including MacOSX. It intends to be a programming aid in creating tools which can be compiled on different platforms (including 64bit environments), while trying to revive the days of the good old BASIC.
@@ -72,3 +61,14 @@ A curated list of awesome BASIC dialects, IDEs, and tutorials
 * [MBASIC-Protect](https://github.com/w4jbm/MBASIC-Protect) - Information on the CP/M MBASIC interpreter's protect mode.
 * [GW-BASIC source code](https://github.com/microsoft/GW-BASIC) - The original source code of Microsoft GW-BASIC from 1983.
 * [Project Cherry](https://github.com/Sarania/Project-Cherry) - a Chip-8/SCHIP emulator written in FreeBASIC.
+
+## Tutorials
+
+* [A Beginner's Guide To FreeBasic](https://github.com/andykmv/Freebasic_user_guide)
+* [A Beginner's Guide to Gambas](https://distro.ibiblio.org/vectorlinux/Uelsk8s/GAMBAS/gambas-beginner-guide.pdf)
+* [BASIC Gaming](https://games.freebasic.net/basicgaming.php) - a short lived ezine that has a wealth of information
+* [BlitzMax for the Absolute Beginner](http://blitzmaxbook.com/)
+* [Franktic's FreeBASIC Programming Tutorial](https://frankticfreebasic.blogspot.com/)
+* [Programming with yab](https://www.smashwords.com/books/view/691720)
+* [QB64 Game Programming](https://www.qb64sourcecode.com/)
+* [QBasic (QB64) Tutorial Video Series by SchoolFreeware](https://www.youtube.com/playlist?list=PLF6199808BD4901E1)
