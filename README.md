@@ -37,6 +37,7 @@ A curated list of awesome BASIC dialects, IDEs, and tutorials
 * [Oxygen Basic](https://www.oxygenbasic.org/) - a Compact embeddable JIT compiler that reads C headers and compiles to x86 machine code. Executes directly in memory or creates DLLs and EXE files. Supports overloading and OOP. Currently available for MS platforms.
 * [PC-BASIC](https://robhagemans.github.io/pcbasic/) - a free, cross-platform interpreter for GW-BASIC, Advanced BASIC (BASICA), PCjr Cartridge Basic and Tandy 1000 GWBASIC.
 * [PuffinBASIC](https://github.com/mayuropensource/PuffinBASIC) - BASIC interpreter written in Java.
+* [jvmBASIC](https://github.com/teverett/jvmBASIC) - A BASIC to JVM bytecode compiler.
 * [jScriptBasic](https://github.com/verhas/jScriptBasic) - ScriptBasic for Java is a BASIC interpreter that can be embedded into Java programs.
 * [PureBasic](https://www.purebasic.com/) - a modern BASIC programming language. The key features of PureBasic are portability (Windows, Linux and OS X supported with the same source code), the production of very fast and optimized native 32-bit or 64-bit executables and, of course, the very simple BASIC language syntax. PureBasic has been created for the beginner and expert alike. We have put a lot of effort into its conception to produce a fast, reliable system and friendly BASIC compiler.
 * [PyBasic](https://github.com/richpl/PyBasic) - Simple interactive BASIC interpreter written in Python
