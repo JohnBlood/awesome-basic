@@ -53,7 +53,8 @@ A curated list of awesome BASIC dialects, IDEs, and tutorials
 
 ## Game Development
 
-* [Cerberus X](https://www.cerberus-x.com/community/portal/) - Aa cross-platform development toolset which serves 2D game development at its core. Cerberus X is a fork of the Monkey X programming language.
+* [Cerberus X](https://www.cerberus-x.com/community/portal/) - Aa cross-platform development toolset which serves 2D game development at its core. Cerberus X is a fork of the [Monkey X programming language](https://blitzresearch.itch.io/monkeyx).
+* [Monkey 2](https://blitzresearch.itch.io/monkey2) - Monkey2 is an easy to use, cross platform, games oriented programming language from Blitz Research.
 
 ## IDEs, Editors, Plugins, and Tools
 
