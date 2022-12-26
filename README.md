@@ -69,6 +69,7 @@ A curated list of awesome BASIC dialects, IDEs, and tutorials
 
 * [NSB/AppStudio](https://www.nsbasic.com/) - A complete, powerful development environment. Create apps for iOS, Android, Windows, MacOS and Linux.
 * [RAD Basic](https://radbasic.dev/) - 100% compatible with your Visual Basic 6 projects.
+* [RemObjects Mercury](https://www.remobjects.com/elements/mercury/) - Mercury is an implementation of the BASIC programming language that is fully code-compatible with Microsoft Visual Basic.NET™, but takes it to the next level, and to new horizons.
 * [twinBASIC](https://github.com/twinbasic/twinbasic) - twinBASIC is a modern version of the classic BASIC programming language.
 * [Xojo](https://www.xojo.com/) - Build Native, Cross-Platform Apps. Rapid application development for Desktop, Web, Mobile & Raspberry Pi. Develop on macOS, Windows or Linux.
 
