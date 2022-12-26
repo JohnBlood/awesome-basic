@@ -76,6 +76,7 @@ A curated list of awesome BASIC dialects, IDEs, and tutorials
 
 ## IDEs, Editors, Plugins, and Tools
 
+* [B4X](https://www.b4x.com/) - Simple, powerful and modern development tools.
 * [BaCon](https://www.basic-converter.org/) - a free BASIC to C translator for Unix-based systems, which runs on most Unix/Linux/BSD platforms, including MacOSX. It intends to be a programming aid in creating tools which can be compiled on different platforms (including 64bit environments), while trying to revive the days of the good old BASIC.
 * [basgo](https://github.com/udhos/basgo) - compiles BASIC-lang to Golang.
 * [BCX](https://bcxbasiccoders.com/) - BCX converts your BCX BASIC source code into high performing, efficient C\C++ source code. Use C\C++ libraries and header files without having to first convert them into BASIC.
