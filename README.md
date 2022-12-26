@@ -6,6 +6,7 @@ A curated list of awesome BASIC dialects, IDEs, and tutorials
 
 * [Dialects](#Dialects)
 * [Game Development](#Game-Development)
+* [Commercial](#Commercial)
 * [IDEs, Editors, Plugins, and Tools](#ides-editors-plugins-and-tools)
 * [Miscellaneous](#Miscellaneous)
 * [Tutorials](#Tutorials)
@@ -16,6 +17,7 @@ A curated list of awesome BASIC dialects, IDEs, and tutorials
 * [AppGameKit](https://www.appgamekit.com/) - an easy to learn game development engine, ideal for Beginners, Hobbyists & Indie developers. Now anyone can quickly code and build apps for multiple platforms using AppGameKit - have your demos and games up and running on mobile devices
 * [BASIC-256](https://sourceforge.net/projects/kidbasic/) - an easy to use version of BASIC designed to teach anybody how to program. A built-in graphics mode lets them draw pictures on screen in minutes, and a set of easy-to-follow tutorials introduce programming concepts through fun exercises.
 * [BASIC8](https://store.steampowered.com/app/767240/BASIC8/) - an integrated Fantasy Computer for game and other program development. You can create, share and play disks in a modern BASIC dialect, with built-in tools for editing sprite, tiles, map, quantized, etc.
+* [BASIC Compiler](https://github.com/lwiest/BASICCompiler) - BASIC Compiler is an open-source BASIC compiler written in Java. It compiles a BASIC program into Java bytecode, which can be executed with any Java Virtual Machine 1.5 and higher.
 * [BBCSDL](http://www.bbcbasic.co.uk/bbcsdl/index.html) - an advanced cross-platform implementation of BBC BASIC for Windows, Linux (x86 CPU only), MacOS, Raspberry Pi (Raspbian), Android, iOS or for running in a browser. It combines the simplicity of BASIC with the sophistication of a structured language, allowing you to write utilities and games, use sound and graphics, and perform calculations.
 * [BlitzMax DX](https://www.blitzcoder.org/forum/topic.php?id=803) - a fork of BlitzMax NG.
 * [BlitzMax NG](https://blitzmax.org/) - a fast cross-platform, open-source, programming language.
@@ -29,20 +31,29 @@ A curated list of awesome BASIC dialects, IDEs, and tutorials
 * [FutureBasic](https://www.brilorsoftware.com/fb/pages/home.html) - a high-level procedural programming language combined with an "Integrated Development Environment" (IDE) for creating native Intel Macintosh applications. It provides an editor, compiler, project manager, documentation, and code samples.
 * [Gambas](http://gambas.sourceforge.net/en/main.html) - a free development environment and a full powerful development platform based on a Basic interpreter with object extensions, as easy as Visual Basic.
 * [GLBasic](https://store.steampowered.com/app/819510/GLBasic_SDK/) - an easy to learn BASIC language with Editor, Compiler and Debugger. The generated C++ code compiles to lightning-fast apps for several platforms.
-* [Just BASIC](https://justbasic.com/) - a programming language for Windows.  It is completely free and it is suitable for creating all kinds of applications for business, industry, education and entertainment.
+* [Just BASIC](https://justbasic.com/) - a programming language for Windows.  It is completely free and it is suitable for creating all kinds of applications for business, industry, education and entertainment. The commercial version of it is [Liberty BASIC](https://libertybasic.com/).
 * [KayaBASIC](https://github.com/kankouhin/Kaya-BASIC) - Multi-platform BASIC compiler, supports Windows, Linux and macOS. easy extends with C++.
 * [LychenBASIC](https://github.com/axtens/LychenBASIC) - anachronistic, Windows-only, BASIC language programming [blog post explanation](https://dev.to/bugmagnet/lychenbasic-anachronistic-windows-only-basic-language-programming-11d1).
 * [MatrixBrandy](https://github.com/stardot/MatrixBrandy) - a Fork of Brandy BASIC V for Linux. Brandy implements Basic VI, the the 64-bit floating-point mathematics variant of the dialect of Basic that Acorn Computers supplied with their ranges of desktop computers that use the ARM processor such as the Archimedes and RiscPC. Basic V and VI are an extended version of BBC Basic. This was the Basic used on the BBC Micro that Acorn made during the early 1980s.
+* [my_basic](https://github.com/paladin-t/my_basic) - A lightweight BASIC interpreter written in standard C in dual files. Aims to be embeddable, extendable and portable.
 * [NaaLaa](https://www.naalaa.com/) - stands for 'Not An Advanced Language At All'. It's a very easy to learn programming language for beginners interested in retro style game development. NaaLaa is free to use and you may do whatever you want with the programs you create with it. NaaLaa runs and compiles on Windows and Linux.
+* [nuBASIC](https://github.com/eantcal/nubasic) - nuBASIC is an implementation of a BASIC interpreter and IDE for Windows and Linux .
+* [nuBScript](https://github.com/eantcal/nubscript) - nuBScript is a programming language distributed under MIT License.
 * [Oxygen Basic](https://www.oxygenbasic.org/) - a Compact embeddable JIT compiler that reads C headers and compiles to x86 machine code. Executes directly in memory or creates DLLs and EXE files. Supports overloading and OOP. Currently available for MS platforms.
 * [PC-BASIC](https://robhagemans.github.io/pcbasic/) - a free, cross-platform interpreter for GW-BASIC, Advanced BASIC (BASICA), PCjr Cartridge Basic and Tandy 1000 GWBASIC.
 * [PuffinBASIC](https://github.com/mayuropensource/PuffinBASIC) - BASIC interpreter written in Java.
+* [jvmBASIC](https://github.com/teverett/jvmBASIC) - A BASIC to JVM bytecode compiler.
+* [jScriptBasic](https://github.com/verhas/jScriptBasic) - ScriptBasic for Java is a BASIC interpreter that can be embedded into Java programs.
 * [PureBasic](https://www.purebasic.com/) - a modern BASIC programming language. The key features of PureBasic are portability (Windows, Linux and OS X supported with the same source code), the production of very fast and optimized native 32-bit or 64-bit executables and, of course, the very simple BASIC language syntax. PureBasic has been created for the beginner and expert alike. We have put a lot of effort into its conception to produce a fast, reliable system and friendly BASIC compiler.
 * [PyBasic](https://github.com/richpl/PyBasic) - Simple interactive BASIC interpreter written in Python
 * [QB64](https://www.qb64.org/portal/) - a modern extended BASIC programming language that retains QBasic/QuickBASIC 4.5 compatibility and compiles native binaries for Windows, Linux, and macOS.
 * [RCBasic](http://rcbasic.com/) - a simple easy to learn programming language with many builtin functions to aid in game and multimedia application development. RCBasic is free software distributed under the zlib license.
+* [sdlBASIC](https://sourceforge.net/projects/sdlbasic/) - A easy basic in order to make games in 2d style amos for linux and windows.
+* [SharpBASIC](https://sharpbasic.com/) - SharpBASIC is a new programming language that is currently in development. As the name suggests the language should be considered a sharper BASIC, more powerful, less verbose but with a clear structure.
+* [SmallBasic](http://www.smallbasic.com/) - Small Basic is the only programming language created specially to help students transition from block-based coding to text-based coding.
 * [SmallBASIC](https://smallbasic.github.io/) - a fast and easy to learn BASIC language interpreter ideal for everyday calculations, scripts and prototypes. SmallBASIC includes trigonometric, matrices and algebra functions, a built in IDE, a powerful string library, system, sound, and graphic commands along with structured programming syntax.
 * [SpecBAS](https://github.com/ZXDunny/SpecBAS) - an enhanced Sinclair BASIC interpreter for modern PCs.
+* [SpiderBasic](https://www.spiderbasic.com/) - A Basic to master the web.
 * [thinBASIC](https://www.thinbasic.com/) - a very fast "BASIC like" programming language useful to Beginners and to Gurus. BASIC interpreter for Windows able to create console and gui applications with most of the user interface controls, automate process, automate data exchange, connect to databases, send mails, connect to ftp sites, rest api, parsing strings, tokenizing, traversing xml, handling files, Windows Registry, OpenGl, graphics, sound, printing ... and much more.
 * [X11-Basic](http://x11-basic.sourceforge.net/) - a dialect of the BASIC programming language with graphics and sound.
 * [XC=BASIC](https://github.com/neilsf/XC-BASIC) - a dialect of the BASIC programming language for the Commodore-64 and xcbasic64 is a cross compiler that compiles an XC=BASIC program to 6502 machine code trough the DASM macro assembler. It runs on Windows, Linux and Mac OS. The name XC=BASIC stands for "Cross Compiled BASIC".
@@ -51,14 +62,27 @@ A curated list of awesome BASIC dialects, IDEs, and tutorials
 
 ## Game Development
 
-* [Cerberus X](https://www.cerberus-x.com/community/portal/) - Aa cross-platform development toolset which serves 2D game development at its core. Cerberus X is a fork of the Monkey X programming language.
+* [Cerberus X](https://www.cerberus-x.com/community/portal/) - Aa cross-platform development toolset which serves 2D game development at its core. Cerberus X is a fork of the [Monkey X programming language](https://blitzresearch.itch.io/monkeyx).
+* [Monkey 2](https://blitzresearch.itch.io/monkey2) - Monkey2 is an easy to use, cross platform, games oriented programming language from Blitz Research.
+
+## Commercial
+
+* [NSB/AppStudio](https://www.nsbasic.com/) - A complete, powerful development environment. Create apps for iOS, Android, Windows, MacOS and Linux.
+* [RAD Basic](https://radbasic.dev/) - 100% compatible with your Visual Basic 6 projects.
+* [RemObjects Mercury](https://www.remobjects.com/elements/mercury/) - Mercury is an implementation of the BASIC programming language that is fully code-compatible with Microsoft Visual Basic.NET™, but takes it to the next level, and to new horizons.
+* [twinBASIC](https://github.com/twinbasic/twinbasic) - twinBASIC is a modern version of the classic BASIC programming language.
+* [Xojo](https://www.xojo.com/) - Build Native, Cross-Platform Apps. Rapid application development for Desktop, Web, Mobile & Raspberry Pi. Develop on macOS, Windows or Linux.
+
 
 ## IDEs, Editors, Plugins, and Tools
 
+* [B4X](https://www.b4x.com/) - Simple, powerful and modern development tools.
 * [BaCon](https://www.basic-converter.org/) - a free BASIC to C translator for Unix-based systems, which runs on most Unix/Linux/BSD platforms, including MacOSX. It intends to be a programming aid in creating tools which can be compiled on different platforms (including 64bit environments), while trying to revive the days of the good old BASIC.
 * [basgo](https://github.com/udhos/basgo) - compiles BASIC-lang to Golang.
+* [BCX](https://bcxbasiccoders.com/) - BCX converts your BCX BASIC source code into high performing, efficient C\C++ source code. Use C\C++ libraries and header files without having to first convert them into BASIC.
 * [DavsIDE](http://www.qbasicnews.com/dav/projects.php#DAVSIDE) - an Alternative IDE for the QB64 compiler. 
 * [InForm](https://www.qb64.org/inform/) - a GUI engine and WYSIWYG interface designer for QB64.
+* [MBC](https://github.com/Airr/MBC) - MBC is a Basic to C/C++ translator, originally based on the BCX Windows translator by Kevin Diggins. It has successfully compiled using Clang++ and G++ on macOS/Linux 64bit OS's, and G++ on RaspberryPi.
 * [QBASDOWN](https://github.com/clasqm/QBASDOWN) - a Markdown implementation for FreeDOS. Written for FreeDOS in QuickBASIC 4.5
 * [Quite BASIC](http://www.quitebasic.com/) - a web-based classic BASIC online programming environment.
 * [mono-basic](https://github.com/mono/mono-basic) - Visual Basic Compiler and Runtime.
@@ -72,6 +96,7 @@ A curated list of awesome BASIC dialects, IDEs, and tutorials
 * [MBASIC-Protect](https://github.com/w4jbm/MBASIC-Protect) - Information on the CP/M MBASIC interpreter's protect mode.
 * [GW-BASIC source code](https://github.com/microsoft/GW-BASIC) - The original source code of Microsoft GW-BASIC from 1983.
 * [Project Cherry](https://github.com/Sarania/Project-Cherry) - a Chip-8/SCHIP emulator written in FreeBASIC.
+* [The Basics' page (since 2001)](http://basic.mindteq.com/)
 
 ## Tutorials
 
