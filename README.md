@@ -38,6 +38,8 @@ A curated list of awesome BASIC dialects, IDEs, and tutorials
 * [MBC](https://github.com/Airr/MBC) - MBC is a Basic to C/C++ translator, originally based on the BCX Windows translator by Kevin Diggins. It has successfully compiled using Clang++ and G++ on macOS/Linux 64bit OS's, and G++ on RaspberryPi.
 * [my_basic](https://github.com/paladin-t/my_basic) - A lightweight BASIC interpreter written in standard C in dual files. Aims to be embeddable, extendable and portable.
 * [NaaLaa](https://www.naalaa.com/) - stands for 'Not An Advanced Language At All'. It's a very easy to learn programming language for beginners interested in retro style game development. NaaLaa is free to use and you may do whatever you want with the programs you create with it. NaaLaa runs and compiles on Windows and Linux.
+* [nuBASIC](https://github.com/eantcal/nubasic) - nuBASIC is an implementation of a BASIC interpreter and IDE for Windows and Linux .
+* [nuBScript](https://github.com/eantcal/nubscript) - nuBScript is a programming language distributed under MIT License.
 * [Oxygen Basic](https://www.oxygenbasic.org/) - a Compact embeddable JIT compiler that reads C headers and compiles to x86 machine code. Executes directly in memory or creates DLLs and EXE files. Supports overloading and OOP. Currently available for MS platforms.
 * [PC-BASIC](https://robhagemans.github.io/pcbasic/) - a free, cross-platform interpreter for GW-BASIC, Advanced BASIC (BASICA), PCjr Cartridge Basic and Tandy 1000 GWBASIC.
 * [PuffinBASIC](https://github.com/mayuropensource/PuffinBASIC) - BASIC interpreter written in Java.
