@@ -44,6 +44,7 @@ A curated list of awesome BASIC dialects, IDEs, and tutorials
 * [QB64](https://www.qb64.org/portal/) - a modern extended BASIC programming language that retains QBasic/QuickBASIC 4.5 compatibility and compiles native binaries for Windows, Linux, and macOS.
 * [RCBasic](http://rcbasic.com/) - a simple easy to learn programming language with many builtin functions to aid in game and multimedia application development. RCBasic is free software distributed under the zlib license.
 * [sdlBASIC](https://sourceforge.net/projects/sdlbasic/) - A easy basic in order to make games in 2d style amos for linux and windows.
+* [SmallBasic](http://www.smallbasic.com/) - Small Basic is the only programming language created specially to help students transition from block-based coding to text-based coding.
 * [SmallBASIC](https://smallbasic.github.io/) - a fast and easy to learn BASIC language interpreter ideal for everyday calculations, scripts and prototypes. SmallBASIC includes trigonometric, matrices and algebra functions, a built in IDE, a powerful string library, system, sound, and graphic commands along with structured programming syntax.
 * [SpecBAS](https://github.com/ZXDunny/SpecBAS) - an enhanced Sinclair BASIC interpreter for modern PCs.
 * [SpiderBasic](https://www.spiderbasic.com/) - A Basic to master the web.
