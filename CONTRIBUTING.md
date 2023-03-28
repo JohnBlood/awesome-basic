@@ -8,7 +8,6 @@ Please ensure your pull request adheres to the following guidelines:
 
 # Updating [README.md](https://github.com/JohnBlood/awesome-basic/blob/master/README.md)
 
-- Make an individual pull request for each suggestion.
 - You can either add a link or new categories, or improvements... all are welcome.
   - If you have other ideas for discussion please leave an issue.
 - Use the following format: [Project Name][Project Link] - Description. [`License Name`](License Link)
