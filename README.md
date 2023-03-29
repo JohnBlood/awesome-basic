@@ -34,6 +34,7 @@ A curated list of awesome BASIC dialects, IDEs, and tutorials
 * [FutureBasic](https://www.brilorsoftware.com/fb/pages/home.html) - a high-level procedural programming language combined with an "Integrated Development Environment" (IDE) for creating native Intel Macintosh applications. It provides an editor, compiler, project manager, documentation, and code samples.
 * [Gambas](http://gambas.sourceforge.net/en/main.html) - a free development environment and a full powerful development platform based on a Basic interpreter with object extensions, as easy as Visual Basic.
 * [GLBasic](https://store.steampowered.com/app/819510/GLBasic_SDK/) - an easy to learn BASIC language with Editor, Compiler and Debugger. The generated C++ code compiles to lightning-fast apps for several platforms.
+* [JADE](https://github.com/xet7/JadeLib) - AKA "Jade's A Developing Experiment" - This is a proof of concept using a BASIC-like syntax to program C++.
 * [jScriptBasic](https://github.com/verhas/jScriptBasic) - ScriptBasic for Java is a BASIC interpreter that can be embedded into Java programs.
 * [Just BASIC](https://justbasic.com/) - a programming language for Windows. It is completely free and it is suitable for creating all kinds of applications for business, industry, education and entertainment.
 * [jvmBASIC](https://github.com/teverett/jvmBASIC) - A BASIC to JVM bytecode compiler.
