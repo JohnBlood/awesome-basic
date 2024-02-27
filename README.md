@@ -83,6 +83,7 @@ A curated list of awesome BASIC dialects, IDEs, and tutorials
 * [mono-basic](https://github.com/mono/mono-basic) - Visual Basic Compiler and Runtime.
 * [VisualFBEditor](https://github.com/XusinboyBekchanov/VisualFBEditor) - an IDE for FreeBasic under active development.
 * [WinFBE](https://github.com/PaulSquires/WinFBE) - FreeBASIC Editor for Windows.
+* [vscode-vba](https://github.com/serkonda7/vscode-vba) - Extension that adds rich VBA editor support to Visual Studio Code.
 
 ## Miscellaneous
 
