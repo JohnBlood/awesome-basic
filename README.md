@@ -11,7 +11,7 @@ A curated list of awesome BASIC dialects, IDEs, and tutorials
 
 ## Dialects
 
-* [AppGameKit](https://www.appgamekit.com/) - an easy to learn game development engine, ideal for Beginners, Hobbyists & Indie developers. Now anyone can quickly code and build apps for multiple platforms using AppGameKit - have your demos and games up and running on mobile devices.
+* [AppGameKit](https://www.appgamekit.com/) - an easy-to-learn game development engine, ideal for Beginners, Hobbyists & Indie developers. Now anyone can quickly code and build apps for multiple platforms using AppGameKit - have your demos and games up and running on mobile devices.
 * [atinybasic](https://github.com/trevorjay/atinybasic) - An Actually Tiny BASIC for Arduino.
 * [B4X](https://www.b4x.com/) - Simple, powerful and modern development tools.
 * [BaCon](https://www.basic-converter.org/) - a free BASIC to C translator for Unix-based systems, which runs on most Unix/Linux/BSD platforms, including MacOSX. It intends to be a programming aid in creating tools which can be compiled on different platforms (including 64bit environments), while trying to revive the days of the good old BASIC.
@@ -82,8 +82,8 @@ A curated list of awesome BASIC dialects, IDEs, and tutorials
 * [QBASDOWN](https://github.com/clasqm/QBASDOWN) - a Markdown implementation for FreeDOS. Written for FreeDOS in QuickBASIC 4.5
 * [mono-basic](https://github.com/mono/mono-basic) - Visual Basic Compiler and Runtime.
 * [VisualFBEditor](https://github.com/XusinboyBekchanov/VisualFBEditor) - an IDE for FreeBasic under active development.
-* [WinFBE](https://github.com/PaulSquires/WinFBE) - FreeBASIC Editor for Windows.
 * [vscode-vba](https://github.com/serkonda7/vscode-vba) - Extension that adds rich VBA editor support to Visual Studio Code.
+* [WinFBE](https://github.com/PaulSquires/WinFBE) - FreeBASIC Editor for Windows.
 
 ## Miscellaneous
 
