@@ -67,6 +67,7 @@ A curated list of awesome BASIC dialects, IDEs, and tutorials
 * [SpecBAS](https://github.com/ZXDunny/SpecBAS) - an enhanced Sinclair BASIC interpreter for modern PCs.
 * [SpiderBasic](https://www.spiderbasic.com/) - A Basic to master the web.
 * [thinBASIC](https://www.thinbasic.com/) - a very fast "BASIC-like" programming language useful to Beginners and to Gurus. BASIC interpreter for Windows able to create console and gui applications with most of the user interface controls, automate process, automate data exchange, connect to databases, send mails, connect to FTP sites, rest api, parsing strings, tokenizing, traversing xml, handling files, Windows Registry, OpenGl, graphics, sound, printing ... and much more.
+* [TrekBasic](https://github.com/cocode/TrekBASIC) - TrekBasic provides both a BASIC interpreter and a compiler. Using LLVM as a backend allows you to compile for any platform LLVM supports. The interpreter shell provides tools like breakpoints, execution trace, data breakpoints, and more. The compiler offers high performance. TrekBasic is written in python, and is small, and easily modified to your needs.
 * [twinBASIC](https://github.com/twinbasic/twinbasic) - twinBASIC is a modern version of the classic BASIC programming language.
 * [wwwBASIC](https://github.com/google/wwwbasic) - an implementation of BASIC that runs on Node.js and the Web.
 * [X11-Basic](http://x11-basic.sourceforge.net/) - a dialect of the BASIC programming language with graphics and sound.
