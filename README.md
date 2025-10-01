@@ -80,7 +80,7 @@ A curated list of awesome BASIC dialects, IDEs, and tutorials
 ## IDEs, Editors, Plugins, and Tools
 
 * [DavsIDE](http://www.qbasicnews.com/dav/projects.php#DAVSIDE) - an Alternative IDE for the QB64 compiler. 
-* [InForm](https://www.qb64.org/inform/) - a GUI engine and WYSIWYG interface designer for QB64.
+* [InForm](https://qb64.com/inform.html) - a GUI engine and WYSIWYG interface designer for QB64.
 * [QBASDOWN](https://github.com/clasqm/QBASDOWN) - a Markdown implementation for FreeDOS. Written for FreeDOS in QuickBASIC 4.5
 * [mono-basic](https://github.com/mono/mono-basic) - Visual Basic Compiler and Runtime.
 * [VisualFBEditor](https://github.com/XusinboyBekchanov/VisualFBEditor) - an IDE for FreeBasic under active development.
