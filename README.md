@@ -76,6 +76,7 @@ A curated list of awesome BASIC dialects, IDEs, and tutorials
 * [Xojo](https://www.xojo.com/) - Build Native, Cross-Platform Apps. Rapid application development for Desktop, Web, Mobile & Raspberry Pi. Develop on macOS, Windows, or Linux.
 * [Yabasic](http://www.yabasic.de/) - a traditional basic-interpreter. It comes with goto and various loops and allows to define subroutines and libraries. It does simple graphics and printing. Yabasic can call out to libraries written in C and allows to create standalone programs. Yabasic runs under Unix and Windows and has comprehensive documentation; it is small, simple, open-source and free.
 * [YAB](https://github.com/bbjimmy/Yab) - a complete BASIC programming language for [Haiku](https://www.haiku-os.org/). Yab allows fast prototyping with simple and clean code. yab contains a large number of BeAPI-specific commands for GUI creation and much, much more. yab-IDE is a powerful development environment, which of course is programmed in yab itself.
+* [Plan9Basic](https://plan9basic.com/) - a small and simple programming language inspired by classic BASIC, designed for creating small applications. It combines the simplicity and accessibility of traditional BASIC with modern structured programming features and a cross-platform graphical interface built with Delphi/FireMonkey for cross-platform applet development (Windows, macOS, Linux, Android, iOS). The source code for the core engine and some of the libraries is provided and can be embedded into Delphi FMX applications.
 
 ## IDEs, Editors, Plugins, and Tools
 
