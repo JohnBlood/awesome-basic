@@ -56,7 +56,7 @@ A curated list of awesome BASIC dialects, IDEs, and tutorials
 * [PuffinBASIC](https://github.com/mayuropensource/PuffinBASIC) - BASIC interpreter written in Java.
 * [PureBasic](https://www.purebasic.com/) - a modern BASIC programming language. The key features of PureBasic are portability (Windows, Linux, and OS X supported with the same source code), the production of very fast and optimized native 32-bit or 64-bit executables, and, of course, the very simple BASIC language syntax. PureBasic has been created for the beginner and expert alike. We have put a lot of effort into its conception to produce a fast, reliable system and friendly BASIC compiler.
 * [PyBasic](https://github.com/richpl/PyBasic) - Simple interactive BASIC interpreter written in Python
-* [QB64](https://www.qb64.org/portal/) - a modern extended BASIC programming language that retains QBasic/QuickBASIC 4.5 compatibility and compiles native binaries for Windows, Linux, and macOS.
+* [QB64](https://qb64.com/) - a modern extended BASIC programming language that retains QBasic/QuickBASIC 4.5 compatibility and compiles native binaries for Windows, Linux, and macOS.
 * [Quite BASIC](http://www.quitebasic.com/) - a web-based classic BASIC online programming environment.
 * [RAD Basic](https://radbasic.dev/) - 100% compatible with your Visual Basic 6 projects.
 * [RCBasic](http://rcbasic.com/) - a simple easy-to-learn programming language with many built-in functions to aid in game and multimedia application development. RCBasic is free software distributed under the Zlib license.
@@ -81,7 +81,7 @@ A curated list of awesome BASIC dialects, IDEs, and tutorials
 ## IDEs, Editors, Plugins, and Tools
 
 * [DavsIDE](http://www.qbasicnews.com/dav/projects.php#DAVSIDE) - an Alternative IDE for the QB64 compiler. 
-* [InForm](https://www.qb64.org/inform/) - a GUI engine and WYSIWYG interface designer for QB64.
+* [InForm](https://qb64.com/inform.html) - a GUI engine and WYSIWYG interface designer for QB64.
 * [QBASDOWN](https://github.com/clasqm/QBASDOWN) - a Markdown implementation for FreeDOS. Written for FreeDOS in QuickBASIC 4.5
 * [mono-basic](https://github.com/mono/mono-basic) - Visual Basic Compiler and Runtime.
 * [VisualFBEditor](https://github.com/XusinboyBekchanov/VisualFBEditor) - an IDE for FreeBasic under active development.
